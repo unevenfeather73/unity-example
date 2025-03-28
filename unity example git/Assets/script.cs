@@ -16,7 +16,7 @@ public class script : MonoBehaviour
             print("adaddawd");
         }
 
-
+        // you are a nigga
 
 
         
